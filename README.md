@@ -1,4 +1,5 @@
 This container was made with [Parcel](https://parceljs.org/)
+To start using this boilerplate just make a fork from master branch, clone the repo and change the folder name, or download the zip file
 
 ## Scripts
 
